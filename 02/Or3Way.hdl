@@ -1,0 +1,12 @@
+/**
+ * Or 3 Way
+ */
+
+CHIP Or3Way {
+    IN a, b, c;
+    OUT out;
+
+    PARTS:
+    Or(a=a, b=b, out=outab);
+	Or(a=outab, b=c, out=out);
+}
