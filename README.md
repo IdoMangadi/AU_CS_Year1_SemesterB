@@ -1,2 +1,3 @@
 # AU_CS_Year1_SemesterB
-Projects from semester 2 
+Course: Computer architecture 
+Ex: Building a computer NAND2TETRIS
